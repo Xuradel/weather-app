@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/weather-app/static/css/main.a318d7c2.css",
+    "main.js": "/weather-app/static/js/main.2715519f.js",
+    "static/media/sunset.jpg": "/weather-app/static/media/sunset.977891529982d41cae63.jpg",
+    "static/media/rain.jpeg": "/weather-app/static/media/rain.cd8b62788804426fad31.jpeg",
+    "static/media/drizzle.jpeg": "/weather-app/static/media/drizzle.c948d935c75d4363d3e7.jpeg",
+    "static/media/clouds.jpg": "/weather-app/static/media/clouds.f90f5860746366ba02d3.jpg",
+    "static/media/thunderstorm.jpg": "/weather-app/static/media/thunderstorm.57ae7520cc1fc2311c6d.jpg",
+    "static/media/clear.jpg": "/weather-app/static/media/clear.314adb29832861105190.jpg",
+    "static/media/SourceSansPro-Regular.ttf": "/weather-app/static/media/SourceSansPro-Regular.df87f53caf449a3b7572.ttf",
+    "static/media/SourceSansPro-Bold.ttf": "/weather-app/static/media/SourceSansPro-Bold.2dec2f24e3bdf2c6862e.ttf",
+    "static/media/SourceSansPro-Light.ttf": "/weather-app/static/media/SourceSansPro-Light.9bbfd7cb5e722de4b9f4.ttf",
+    "static/media/Rubik-Regular.ttf": "/weather-app/static/media/Rubik-Regular.0f56ab0b295fd9fca620.ttf",
+    "static/media/Rubik-Light.ttf": "/weather-app/static/media/Rubik-Light.2e276ea61cbb12f3915d.ttf",
+    "static/media/Rubik-Bold.ttf": "/weather-app/static/media/Rubik-Bold.d62658f24eb7c7dc739e.ttf",
+    "index.html": "/weather-app/index.html",
+    "main.a318d7c2.css.map": "/weather-app/static/css/main.a318d7c2.css.map",
+    "main.2715519f.js.map": "/weather-app/static/js/main.2715519f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a318d7c2.css",
+    "static/js/main.2715519f.js"
+  ]
+}
