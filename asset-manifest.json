@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/weather-app/static/css/main.a318d7c2.css",
+    "main.css": "/weather-app/static/css/main.66ebde01.css",
     "main.js": "/weather-app/static/js/main.2715519f.js",
     "static/media/sunset.jpg": "/weather-app/static/media/sunset.977891529982d41cae63.jpg",
     "static/media/rain.jpeg": "/weather-app/static/media/rain.cd8b62788804426fad31.jpeg",
@@ -15,11 +15,11 @@
     "static/media/Rubik-Light.ttf": "/weather-app/static/media/Rubik-Light.2e276ea61cbb12f3915d.ttf",
     "static/media/Rubik-Bold.ttf": "/weather-app/static/media/Rubik-Bold.d62658f24eb7c7dc739e.ttf",
     "index.html": "/weather-app/index.html",
-    "main.a318d7c2.css.map": "/weather-app/static/css/main.a318d7c2.css.map",
+    "main.66ebde01.css.map": "/weather-app/static/css/main.66ebde01.css.map",
     "main.2715519f.js.map": "/weather-app/static/js/main.2715519f.js.map"
   },
   "entrypoints": [
-    "static/css/main.a318d7c2.css",
+    "static/css/main.66ebde01.css",
     "static/js/main.2715519f.js"
   ]
 }
