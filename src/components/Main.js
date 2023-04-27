@@ -38,6 +38,8 @@ const Main = () => {
             {weather === "Clouds" ? <img src={require("../Images/clouds.jpg")} className="background-image"></img> : null}
             {weather === "Thunderstorm" ? <img src={require("../Images/thunderstorm.jpg")} className="background-image"></img> : null}
             {weather === "Drizzle" ? <img src={require("../Images/drizzle.jpeg")} className="background-image"></img> : null}
+            {weather === "Snow" ? <img src={require("../Images/snow.jpg")} className="background-image"></img> : null}
+
             <div className="search">
                 <input
                     onChange={event => setLocation(event.target.value)}
